@@ -8,7 +8,7 @@
 
 * Java: JDK8 
 
-##Como Jogar?
+## Como Jogar?
 ```
 * O objetivo do jogo é marcar pontos batendo na bola com a raquete e evitando que a bola ultrapasse a raquete.
 * O jogador usa as teclas de seta para cima e para baixo para controlar a raquete.
