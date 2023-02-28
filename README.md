@@ -18,11 +18,12 @@
 ## Como utilizar?
 
 ``` 
+________________________________________________________________________________________________
 1. Para executar o jogo, você precisa ter o Java Development Kit (JDK) instalado na sua máquina.
-2. Abra o prompt de comando ou terminal.
-3. Navegue até o diretório onde você baixou ou clonou o repositório.
-4. Execute o comando javac Main.java para compilar o jogo.
-5. Execute o comando java Main para iniciar o jogo.
+2. Clone o repositório ou faça o download do código fonte.
+3. Abra o projeto em uma IDE que suporte Java (como o Eclipse ou NetBeans).
+4. Execute a classe Game para iniciar o jogo.
+________________________________________________________________________________________________
 ``` 
 
 ## Criador:
